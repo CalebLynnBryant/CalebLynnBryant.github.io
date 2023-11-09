@@ -1,0 +1,45 @@
+img {
+  border-radius: 20px;
+  width: 400px;
+  height: 300px;
+  border-style:solid
+  
+}
+
+h1 { 
+  color:#000000;
+  font-family:fantasy;
+  text-decoration:underline;
+  letter-spacing: 18px
+}
+
+p {
+  color:#ff9872;
+  font-family:cursive;
+  letter-spacing: 2px;
+}
+
+h2 {
+  color:orangered;
+  font-family:fantasy;
+  font-weight:bolder
+}
+
+html {
+  background:#164d16;
+}
+
+p1{
+  color: aquamarine;
+  font-family: sans-serif;
+}
+
+p2{
+  color: aquamarine;
+  font-family: sans-serif;
+}
+
+p3{
+  color: aquamarine;
+  font-family: sans-serif;
+}
